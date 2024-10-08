@@ -56,7 +56,7 @@ const Landing = ({ setSelectedPage }) => {
             <br />
             <span className="p-10">+37477508758</span>
             <br />
-            <span className="mt-10">manukyaneghishe@gmail.com</span>
+            <span className="text-3xl mt-10">manukyaneghishe@gmail.com</span>
           </p>
 
           <p className="mt-10 mb-7 text-2xl text-center md:text-start">
